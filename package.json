@@ -3,18 +3,14 @@
   "name": "homebridge-dreo-db94",
   "version": "1.0.0",
   "description": "Homebridge Plugin for Dreo Smart Devices",
-  "homepage": "https://github.com/zyonse/homebridge-dreo",
+  "homepage": "https://github.com/db-94/homebridge-dreo-db94",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zyonse/homebridge-dreo.git"
+    "url": "git+https://github.com/db-94/homebridge-dreo-db94.git"
   },
   "bugs": {
-    "url": "https://github.com/zyonse/homebridge-dreo/issues"
-  },
-  "funding": {
-    "type": "paypal",
-    "url": "https://paypal.me/zyonse"
+    "url": "https://github.com/db-94/homebridge-dreo-db94/issues"
   },
   "engines": {
     "node": ">=14.18.1",
